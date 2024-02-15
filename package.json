@@ -12,10 +12,18 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@radix-ui/react-popover": "^1.0.7",
+    "@radix-ui/react-separator": "^1.0.3",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-tooltip": "^1.0.7",
     "@udecode/cn": "^29.0.1",
+    "@udecode/plate-alignment": "^30.4.5",
+    "@udecode/plate-basic-marks": "^30.4.5",
+    "@udecode/plate-caption": "^30.4.5",
     "@udecode/plate-common": "^30.1.2",
+    "@udecode/plate-media": "^30.4.5",
+    "@udecode/plate-paragraph": "^30.4.5",
+    "@udecode/plate-resizable": "^30.4.5",
     "class-variance-authority": "0.7.0",
     "eslint-plugin-prettier": "^5.1.3",
     "lucide-react": "0.323.0",
